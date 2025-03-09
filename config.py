@@ -6,9 +6,9 @@ import os
 id_pattern = re.compile(r'^.\d+$')
 
 
-API_ID = os.environ.get("API_ID", "10811400")
-API_HASH = os.environ.get("API_HASH", "191bf5ae7a6c39771e7b13cf4ffd1279")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+API_ID = os.environ.get("API_ID", "14050586")
+API_HASH = os.environ.get("API_HASH", "42a60d9c657b106370c79bb0a8ac560c")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8171526481:AAFOVH76GFAQNl-4gf3VvRRh0yLPF9QthH8")
 ADMIN = int(os.environ.get("ADMIN", '5446367898'))
 FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "Animes_India_bots_support_group")
 FSUB_GROUP = os.environ.get("FSUB_GROUP", "Animes_India_bots_support_group")
